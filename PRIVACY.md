@@ -1,6 +1,6 @@
 # Privacy Policy for Meditation Tree
 
-*Last updated: [Current Date]*
+*Last updated: 12/20/2024
 
 ## Introduction
 
