@@ -1,41 +1,34 @@
 {
   "expo": {
     "name": "MeditationTree",
-    "slug": "MeditationTree",
+    "slug": "meditation-tree",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
-    "userInterfaceStyle": "automatic",
-    "newArchEnabled": true,
+    "icon": "./assets/images/treelogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/treesplashscreen.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.meditationtree.app"
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "foregroundImage": "./assets/images/treelogo.png",
         "backgroundColor": "#ffffff"
+      },
+      "package": "com.meditationtree.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d0a33b78-b714-4893-8238-ab41c3aba839"
       }
-    },
-    "web": {
-      "bundler": "metro",
-      "output": "static",
-      "favicon": "./assets/images/favicon.png"
-    },
-    "plugins": [
-      "expo-router",
-      [
-        "expo-splash-screen",
-        {
-          "image": "./assets/images/splash-icon.png",
-          "imageWidth": 200,
-          "resizeMode": "contain",
-          "backgroundColor": "#ffffff"
-        }
-      ]
-    ],
-    "experiments": {
-      "typedRoutes": true
     }
   }
 }

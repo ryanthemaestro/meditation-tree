@@ -1,0 +1,483 @@
+   > Failed to transform flipper-2.6.0.aar (com.facebook.fresco:flipper:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/165eaea6f60601d2e350c4bc4271ea96/transformed/jetified-flipper-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/165eaea6f60601d2e350c4bc4271ea96/transformed/jetified-flipper-2.6.0.aar (No such file or directory)
+   > Failed to transform stetho-2.6.0.aar (com.facebook.fresco:stetho:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/205f6d819bce2341b59dbf481bc74e18/transformed/jetified-stetho-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/205f6d819bce2341b59dbf481bc74e18/transformed/jetified-stetho-2.6.0.aar (No such file or directory)
+   > Failed to transform fresco-2.6.0.aar (com.facebook.fresco:fresco:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/d804b5d9f335ed4f2b559f53541f722e/transformed/jetified-fresco-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/d804b5d9f335ed4f2b559f53541f722e/transformed/jetified-fresco-2.6.0.aar (No such file or directory)
+   > Failed to transform imagepipeline-okhttp3-2.5.0.aar (com.facebook.fresco:imagepipeline-okhttp3:2.5.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/207b53d5ce461ae885d64f574e9712c8/transformed/jetified-imagepipeline-okhttp3-2.5.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/207b53d5ce461ae885d64f574e9712c8/transformed/jetified-imagepipeline-okhttp3-2.5.0.aar (No such file or directory)
+   > Failed to transform animated-gif-2.5.0.aar (com.facebook.fresco:animated-gif:2.5.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/8f08522fa711fb2ebcc7d838e3b8c43f/transformed/jetified-animated-gif-2.5.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/8f08522fa711fb2ebcc7d838e3b8c43f/transformed/jetified-animated-gif-2.5.0.aar (No such file or directory)
+   > Failed to transform webpsupport-2.5.0.aar (com.facebook.fresco:webpsupport:2.5.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0746b70606c5bb9caa57ec59da9de089/transformed/jetified-webpsupport-2.5.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0746b70606c5bb9caa57ec59da9de089/transformed/jetified-webpsupport-2.5.0.aar (No such file or directory)
+   > Failed to transform firebase-auth-23.1.0.aar (com.google.firebase:firebase-auth:23.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/cd93b7a116970393c70249779223c6ad/transformed/jetified-firebase-auth-23.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/cd93b7a116970393c70249779223c6ad/transformed/jetified-firebase-auth-23.1.0.aar (No such file or directory)
+   > Failed to transform firebase-firestore-25.1.1.aar (com.google.firebase:firebase-firestore:25.1.1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/de926188ecd2c741e2416f7c9777654c/transformed/jetified-firebase-firestore-25.1.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/de926188ecd2c741e2416f7c9777654c/transformed/jetified-firebase-firestore-25.1.1.aar (No such file or directory)
+   > Failed to transform firebase-messaging-24.0.3.aar (com.google.firebase:firebase-messaging:24.0.3) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/fb9888f2900b0b5509bda284715d60bd/transformed/jetified-firebase-messaging-24.0.3.aar.
+         > /home/nar/.gradle/caches/transforms-3/fb9888f2900b0b5509bda284715d60bd/transformed/jetified-firebase-messaging-24.0.3.aar (No such file or directory)
+   > Failed to transform firebase-auth-interop-20.0.0.aar (com.google.firebase:firebase-auth-interop:20.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/cf1055587cd205c96cb7a24978e4bb66/transformed/jetified-firebase-auth-interop-20.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/cf1055587cd205c96cb7a24978e4bb66/transformed/jetified-firebase-auth-interop-20.0.0.aar (No such file or directory)
+   > Failed to transform firebase-auth-interop-20.0.0.aar (com.google.firebase:firebase-auth-interop:20.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/cf1055587cd205c96cb7a24978e4bb66/transformed/jetified-firebase-auth-interop-20.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/cf1055587cd205c96cb7a24978e4bb66/transformed/jetified-firebase-auth-interop-20.0.0.aar (No such file or directory)
+   > Failed to transform firebase-installations-18.0.0.aar (com.google.firebase:firebase-installations:18.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/c7e3b9e67305f7898268e378f60ef3de/transformed/jetified-firebase-installations-18.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/c7e3b9e67305f7898268e378f60ef3de/transformed/jetified-firebase-installations-18.0.0.aar (No such file or directory)
+   > Failed to transform firebase-common-ktx-21.0.0.aar (com.google.firebase:firebase-common-ktx:21.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/ffb08b80cc84de25860065ee9b6b58fd/transformed/jetified-firebase-common-ktx-21.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/ffb08b80cc84de25860065ee9b6b58fd/transformed/jetified-firebase-common-ktx-21.0.0.aar (No such file or directory)
+   > Failed to transform firebase-common-ktx-21.0.0.aar (com.google.firebase:firebase-common-ktx:21.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/ffb08b80cc84de25860065ee9b6b58fd/transformed/jetified-firebase-common-ktx-21.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/ffb08b80cc84de25860065ee9b6b58fd/transformed/jetified-firebase-common-ktx-21.0.0.aar (No such file or directory)
+   > Failed to transform firebase-common-ktx-21.0.0.aar (com.google.firebase:firebase-common-ktx:21.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/ffb08b80cc84de25860065ee9b6b58fd/transformed/jetified-firebase-common-ktx-21.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/ffb08b80cc84de25860065ee9b6b58fd/transformed/jetified-firebase-common-ktx-21.0.0.aar (No such file or directory)
+   > Failed to transform firebase-common-ktx-21.0.0.aar (com.google.firebase:firebase-common-ktx:21.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/ffb08b80cc84de25860065ee9b6b58fd/transformed/jetified-firebase-common-ktx-21.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/ffb08b80cc84de25860065ee9b6b58fd/transformed/jetified-firebase-common-ktx-21.0.0.aar (No such file or directory)
+   > Failed to transform firebase-common-21.0.0.aar (com.google.firebase:firebase-common:21.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar (No such file or directory)
+   > Failed to transform firebase-common-21.0.0.aar (com.google.firebase:firebase-common:21.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar (No such file or directory)
+   > Failed to transform firebase-common-21.0.0.aar (com.google.firebase:firebase-common:21.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar (No such file or directory)
+   > Failed to transform firebase-common-21.0.0.aar (com.google.firebase:firebase-common:21.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar (No such file or directory)
+   > Failed to transform firebase-common-21.0.0.aar (com.google.firebase:firebase-common:21.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar (No such file or directory)
+   > Failed to transform firebase-common-21.0.0.aar (com.google.firebase:firebase-common:21.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar (No such file or directory)
+   > Failed to transform firebase-common-21.0.0.aar (com.google.firebase:firebase-common:21.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/fd4e7208a634a42c9247dc261586f516/transformed/jetified-firebase-common-21.0.0.aar (No such file or directory)
+   > Failed to transform credentials-1.2.0-rc01.aar (androidx.credentials:credentials:1.2.0-rc01) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/e4f4070b5fb982a725874403884cf16b/transformed/jetified-credentials-1.2.0-rc01.aar.
+         > /home/nar/.gradle/caches/transforms-3/e4f4070b5fb982a725874403884cf16b/transformed/jetified-credentials-1.2.0-rc01.aar (No such file or directory)
+   > Failed to transform credentials-1.2.0-rc01.aar (androidx.credentials:credentials:1.2.0-rc01) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/e4f4070b5fb982a725874403884cf16b/transformed/jetified-credentials-1.2.0-rc01.aar.
+         > /home/nar/.gradle/caches/transforms-3/e4f4070b5fb982a725874403884cf16b/transformed/jetified-credentials-1.2.0-rc01.aar (No such file or directory)
+   > Failed to transform credentials-play-services-auth-1.2.0-rc01.aar (androidx.credentials:credentials-play-services-auth:1.2.0-rc01) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/bec4c634cee0327ffc08f031b5fa9fa2/transformed/jetified-credentials-play-services-auth-1.2.0-rc01.aar.
+         > /home/nar/.gradle/caches/transforms-3/bec4c634cee0327ffc08f031b5fa9fa2/transformed/jetified-credentials-play-services-auth-1.2.0-rc01.aar (No such file or directory)
+   > Failed to transform play-services-auth-21.2.0.aar (com.google.android.gms:play-services-auth:21.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/5ddd368a16139f210f3ecab1ab579d50/transformed/jetified-play-services-auth-21.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/5ddd368a16139f210f3ecab1ab579d50/transformed/jetified-play-services-auth-21.2.0.aar (No such file or directory)
+   > Failed to transform play-services-auth-api-phone-18.0.2.aar (com.google.android.gms:play-services-auth-api-phone:18.0.2) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/3f3c4440543c26b5dfef9fb6886e078c/transformed/jetified-play-services-auth-api-phone-18.0.2.aar.
+         > /home/nar/.gradle/caches/transforms-3/3f3c4440543c26b5dfef9fb6886e078c/transformed/jetified-play-services-auth-api-phone-18.0.2.aar (No such file or directory)
+   > Failed to transform play-services-auth-api-phone-18.0.2.aar (com.google.android.gms:play-services-auth-api-phone:18.0.2) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/3f3c4440543c26b5dfef9fb6886e078c/transformed/jetified-play-services-auth-api-phone-18.0.2.aar.
+         > /home/nar/.gradle/caches/transforms-3/3f3c4440543c26b5dfef9fb6886e078c/transformed/jetified-play-services-auth-api-phone-18.0.2.aar (No such file or directory)
+   > Failed to transform play-services-auth-base-18.0.10.aar (com.google.android.gms:play-services-auth-base:18.0.10) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/8750d20a07d98bf2dfab97dc90c9beba/transformed/jetified-play-services-auth-base-18.0.10.aar.
+         > /home/nar/.gradle/caches/transforms-3/8750d20a07d98bf2dfab97dc90c9beba/transformed/jetified-play-services-auth-base-18.0.10.aar (No such file or directory)
+   > Failed to transform firebase-appcheck-interop-17.0.0.aar (com.google.firebase:firebase-appcheck-interop:17.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/022ec88f77001a421afd821a8d5301d4/transformed/jetified-firebase-appcheck-interop-17.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/022ec88f77001a421afd821a8d5301d4/transformed/jetified-firebase-appcheck-interop-17.0.0.aar (No such file or directory)
+   > Failed to transform firebase-appcheck-interop-17.0.0.aar (com.google.firebase:firebase-appcheck-interop:17.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/022ec88f77001a421afd821a8d5301d4/transformed/jetified-firebase-appcheck-interop-17.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/022ec88f77001a421afd821a8d5301d4/transformed/jetified-firebase-appcheck-interop-17.0.0.aar (No such file or directory)
+   > Failed to transform firebase-database-collection-18.0.1.aar (com.google.firebase:firebase-database-collection:18.0.1) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/fef3ee371a4b1518910fe1ea418a806e/transformed/jetified-firebase-database-collection-18.0.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/fef3ee371a4b1518910fe1ea418a806e/transformed/jetified-firebase-database-collection-18.0.1.aar (No such file or directory)
+   > Failed to transform play-services-fido-20.1.0.aar (com.google.android.gms:play-services-fido:20.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/da5e6430d43a2c770ae5f90a341bcfc0/transformed/jetified-play-services-fido-20.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/da5e6430d43a2c770ae5f90a341bcfc0/transformed/jetified-play-services-fido-20.1.0.aar (No such file or directory)
+   > Failed to transform play-services-fido-20.1.0.aar (com.google.android.gms:play-services-fido:20.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/da5e6430d43a2c770ae5f90a341bcfc0/transformed/jetified-play-services-fido-20.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/da5e6430d43a2c770ae5f90a341bcfc0/transformed/jetified-play-services-fido-20.1.0.aar (No such file or directory)
+   > Failed to transform play-services-base-18.3.0.aar (com.google.android.gms:play-services-base:18.3.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar (No such file or directory)
+   > Failed to transform play-services-base-18.3.0.aar (com.google.android.gms:play-services-base:18.3.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar (No such file or directory)
+   > Failed to transform play-services-base-18.3.0.aar (com.google.android.gms:play-services-base:18.3.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar (No such file or directory)
+   > Failed to transform play-services-base-18.3.0.aar (com.google.android.gms:play-services-base:18.3.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar (No such file or directory)
+   > Failed to transform play-services-base-18.3.0.aar (com.google.android.gms:play-services-base:18.3.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar (No such file or directory)
+   > Failed to transform play-services-base-18.3.0.aar (com.google.android.gms:play-services-base:18.3.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar (No such file or directory)
+   > Failed to transform play-services-base-18.3.0.aar (com.google.android.gms:play-services-base:18.3.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar (No such file or directory)
+   > Failed to transform play-services-base-18.3.0.aar (com.google.android.gms:play-services-base:18.3.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/822a4ec4107c8f730d08b6954ce54cd0/transformed/jetified-play-services-base-18.3.0.aar (No such file or directory)
+   > Failed to transform fragment-ktx-1.5.7.aar (androidx.fragment:fragment-ktx:1.5.7) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/dcef6ff8269dca9d6087d2185615c658/transformed/jetified-fragment-ktx-1.5.7.aar.
+         > /home/nar/.gradle/caches/transforms-3/dcef6ff8269dca9d6087d2185615c658/transformed/jetified-fragment-ktx-1.5.7.aar (No such file or directory)
+   > Failed to transform recaptcha-18.5.1.aar (com.google.android.recaptcha:recaptcha:18.5.1) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0e10499dfd8ac5f4415dd630db35aa78/transformed/jetified-recaptcha-18.5.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/0e10499dfd8ac5f4415dd630db35aa78/transformed/jetified-recaptcha-18.5.1.aar (No such file or directory)
+   > Failed to transform integrity-1.3.0.aar (com.google.android.play:integrity:1.3.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/b590dc027b82cc9761a89377203e930f/transformed/jetified-integrity-1.3.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/b590dc027b82cc9761a89377203e930f/transformed/jetified-integrity-1.3.0.aar (No such file or directory)
+   > Failed to transform integrity-1.3.0.aar (com.google.android.play:integrity:1.3.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/b590dc027b82cc9761a89377203e930f/transformed/jetified-integrity-1.3.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/b590dc027b82cc9761a89377203e930f/transformed/jetified-integrity-1.3.0.aar (No such file or directory)
+   > Failed to transform firebase-iid-interop-17.1.0.aar (com.google.firebase:firebase-iid-interop:17.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/da4bc599b96236447979a1a5a0ac550b/transformed/jetified-firebase-iid-interop-17.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/da4bc599b96236447979a1a5a0ac550b/transformed/jetified-firebase-iid-interop-17.1.0.aar (No such file or directory)
+   > Failed to transform play-services-cloud-messaging-17.2.0.aar (com.google.android.gms:play-services-cloud-messaging:17.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/e7f23793e697ccd39ec33265a5d46616/transformed/jetified-play-services-cloud-messaging-17.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/e7f23793e697ccd39ec33265a5d46616/transformed/jetified-play-services-cloud-messaging-17.2.0.aar (No such file or directory)
+   > Failed to transform activity-1.7.1.aar (androidx.activity:activity:1.7.1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/c1217dc06d4f0fe018fcfe9cff239f83/transformed/jetified-activity-1.7.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/c1217dc06d4f0fe018fcfe9cff239f83/transformed/jetified-activity-1.7.1.aar (No such file or directory)
+   > Failed to transform activity-ktx-1.7.1.aar (androidx.activity:activity-ktx:1.7.1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/40b9bd8f20a2783a3676977dcad77c22/transformed/jetified-activity-ktx-1.7.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/40b9bd8f20a2783a3676977dcad77c22/transformed/jetified-activity-ktx-1.7.1.aar (No such file or directory)
+   > Failed to transform appcompat-resources-1.4.1.aar (androidx.appcompat:appcompat-resources:1.4.1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/00d7a914a2e7324d73b6fbe0aeb81c93/transformed/jetified-appcompat-resources-1.4.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/00d7a914a2e7324d73b6fbe0aeb81c93/transformed/jetified-appcompat-resources-1.4.1.aar (No such file or directory)
+   > Failed to transform autofill-1.1.0.aar (androidx.autofill:autofill:1.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/6709969e5d08d38aabb55a1fffffb3a4/transformed/jetified-autofill-1.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/6709969e5d08d38aabb55a1fffffb3a4/transformed/jetified-autofill-1.1.0.aar (No such file or directory)
+   > Failed to transform emoji2-views-helper-1.0.0.aar (androidx.emoji2:emoji2-views-helper:1.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/07751a78aaac031e151c0b08b1bdb4a6/transformed/jetified-emoji2-views-helper-1.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/07751a78aaac031e151c0b08b1bdb4a6/transformed/jetified-emoji2-views-helper-1.0.0.aar (No such file or directory)
+   > Failed to transform emoji2-1.0.0.aar (androidx.emoji2:emoji2:1.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/ab9afee4271264b9edeb43505a5687d3/transformed/jetified-emoji2-1.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/ab9afee4271264b9edeb43505a5687d3/transformed/jetified-emoji2-1.0.0.aar (No such file or directory)
+   > Failed to transform play-services-stats-17.0.2.aar (com.google.android.gms:play-services-stats:17.0.2) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/92a5faa07384a08fee978d53c741bf4a/transformed/jetified-play-services-stats-17.0.2.aar.
+         > /home/nar/.gradle/caches/transforms-3/92a5faa07384a08fee978d53c741bf4a/transformed/jetified-play-services-stats-17.0.2.aar (No such file or directory)
+   > Failed to transform savedstate-ktx-1.2.1.aar (androidx.savedstate:savedstate-ktx:1.2.1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/36857fa638a485e6be13e9b3f36c0e0b/transformed/jetified-savedstate-ktx-1.2.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/36857fa638a485e6be13e9b3f36c0e0b/transformed/jetified-savedstate-ktx-1.2.1.aar (No such file or directory)
+   > Failed to transform savedstate-1.2.1.aar (androidx.savedstate:savedstate:1.2.1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/6b70b1a798206faf786a6e538e1323dc/transformed/jetified-savedstate-1.2.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/6b70b1a798206faf786a6e538e1323dc/transformed/jetified-savedstate-1.2.1.aar (No such file or directory)
+   > Failed to transform lifecycle-service-2.6.1.aar (androidx.lifecycle:lifecycle-service:2.6.1) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/d7d69d0a83608a6ee19894317bb7de90/transformed/jetified-lifecycle-service-2.6.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/d7d69d0a83608a6ee19894317bb7de90/transformed/jetified-lifecycle-service-2.6.1.aar (No such file or directory)
+   > Failed to transform lifecycle-process-2.6.1.aar (androidx.lifecycle:lifecycle-process:2.6.1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0f9fd235908353193e51282977f351a5/transformed/jetified-lifecycle-process-2.6.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/0f9fd235908353193e51282977f351a5/transformed/jetified-lifecycle-process-2.6.1.aar (No such file or directory)
+   > Failed to transform lifecycle-process-2.6.1.aar (androidx.lifecycle:lifecycle-process:2.6.1) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0f9fd235908353193e51282977f351a5/transformed/jetified-lifecycle-process-2.6.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/0f9fd235908353193e51282977f351a5/transformed/jetified-lifecycle-process-2.6.1.aar (No such file or directory)
+   > Failed to transform lifecycle-livedata-core-ktx-2.6.1.aar (androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/d0d1c2b7f741ac949d7cceb37f711316/transformed/jetified-lifecycle-livedata-core-ktx-2.6.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/d0d1c2b7f741ac949d7cceb37f711316/transformed/jetified-lifecycle-livedata-core-ktx-2.6.1.aar (No such file or directory)
+   > Failed to transform lifecycle-viewmodel-savedstate-2.6.1.aar (androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/82a9286bdfa61f45a455ee7d83f6fcd9/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/82a9286bdfa61f45a455ee7d83f6fcd9/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.1.aar (No such file or directory)
+   > Failed to transform core-ktx-1.6.0.aar (androidx.core:core-ktx:1.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/8da72ec9f147c468e83977c123077622/transformed/jetified-core-ktx-1.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/8da72ec9f147c468e83977c123077622/transformed/jetified-core-ktx-1.6.0.aar (No such file or directory)
+   > Failed to transform viewpager2-1.0.0.aar (androidx.viewpager2:viewpager2:1.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/52b572b15077117f0061b3276ac8b062/transformed/jetified-viewpager2-1.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/52b572b15077117f0061b3276ac8b062/transformed/jetified-viewpager2-1.0.0.aar (No such file or directory)
+   > Failed to transform lifecycle-viewmodel-ktx-2.6.1.aar (androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/1dcf10313771f7522923984074411575/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/1dcf10313771f7522923984074411575/transformed/jetified-lifecycle-viewmodel-ktx-2.6.1.aar (No such file or directory)
+   > Failed to transform lifecycle-runtime-ktx-2.6.1.aar (androidx.lifecycle:lifecycle-runtime-ktx:2.6.1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/dd4902699b0a226cb11f1fb865022ff7/transformed/jetified-lifecycle-runtime-ktx-2.6.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/dd4902699b0a226cb11f1fb865022ff7/transformed/jetified-lifecycle-runtime-ktx-2.6.1.aar (No such file or directory)
+   > Failed to transform firebase-installations-interop-17.1.1.aar (com.google.firebase:firebase-installations-interop:17.1.1) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/04a90f34ad34c16443196713a9409059/transformed/jetified-firebase-installations-interop-17.1.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/04a90f34ad34c16443196713a9409059/transformed/jetified-firebase-installations-interop-17.1.1.aar (No such file or directory)
+   > Failed to transform firebase-installations-interop-17.1.1.aar (com.google.firebase:firebase-installations-interop:17.1.1) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/04a90f34ad34c16443196713a9409059/transformed/jetified-firebase-installations-interop-17.1.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/04a90f34ad34c16443196713a9409059/transformed/jetified-firebase-installations-interop-17.1.1.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform play-services-tasks-18.2.0.aar (com.google.android.gms:play-services-tasks:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0abfabf921c2f7f0e4065085b8c8dbae/transformed/jetified-play-services-tasks-18.2.0.aar (No such file or directory)
+   > Failed to transform firebase-measurement-connector-19.0.0.aar (com.google.firebase:firebase-measurement-connector:19.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/61c63efb06d54ff8f5720897dea2d089/transformed/jetified-firebase-measurement-connector-19.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/61c63efb06d54ff8f5720897dea2d089/transformed/jetified-firebase-measurement-connector-19.0.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform play-services-basement-18.4.0.aar (com.google.android.gms:play-services-basement:18.4.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/326787c53f9a5152b69a2e12097b9df1/transformed/jetified-play-services-basement-18.4.0.aar (No such file or directory)
+   > Failed to transform tracing-ktx-1.1.0.aar (androidx.tracing:tracing-ktx:1.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/a76847c9878bb9695b3e67aa064f35d8/transformed/jetified-tracing-ktx-1.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/a76847c9878bb9695b3e67aa064f35d8/transformed/jetified-tracing-ktx-1.1.0.aar (No such file or directory)
+   > Failed to transform profileinstaller-1.3.0.aar (androidx.profileinstaller:profileinstaller:1.3.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/49533a6788dcc78531f1d15bfdda247e/transformed/jetified-profileinstaller-1.3.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/49533a6788dcc78531f1d15bfdda247e/transformed/jetified-profileinstaller-1.3.0.aar (No such file or directory)
+   > Failed to transform startup-runtime-1.1.1.aar (androidx.startup:startup-runtime:1.1.1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/9a48dc0d01050e4d6c4cdb0ec5c111ee/transformed/jetified-startup-runtime-1.1.1.aar.
+         > /home/nar/.gradle/caches/transforms-3/9a48dc0d01050e4d6c4cdb0ec5c111ee/transformed/jetified-startup-runtime-1.1.1.aar (No such file or directory)
+   > Failed to transform tracing-1.1.0.aar (androidx.tracing:tracing:1.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/fb4bd05df75997fba317d9c851abc926/transformed/jetified-tracing-1.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/fb4bd05df75997fba317d9c851abc926/transformed/jetified-tracing-1.1.0.aar (No such file or directory)
+   > Failed to transform viewbinding-7.4.2.aar (androidx.databinding:viewbinding:7.4.2) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/3c00460b2b6f0614bc176315486925fc/transformed/jetified-viewbinding-7.4.2.aar.
+         > /home/nar/.gradle/caches/transforms-3/3c00460b2b6f0614bc176315486925fc/transformed/jetified-viewbinding-7.4.2.aar (No such file or directory)
+   > Failed to transform firebase-components-18.0.0.aar (com.google.firebase:firebase-components:18.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/f9ccd4f92aa1801453a5dbc4a779f14c/transformed/jetified-firebase-components-18.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/f9ccd4f92aa1801453a5dbc4a779f14c/transformed/jetified-firebase-components-18.0.0.aar (No such file or directory)
+   > Failed to transform firebase-components-18.0.0.aar (com.google.firebase:firebase-components:18.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/f9ccd4f92aa1801453a5dbc4a779f14c/transformed/jetified-firebase-components-18.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/f9ccd4f92aa1801453a5dbc4a779f14c/transformed/jetified-firebase-components-18.0.0.aar (No such file or directory)
+   > Failed to transform firebase-components-18.0.0.aar (com.google.firebase:firebase-components:18.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/f9ccd4f92aa1801453a5dbc4a779f14c/transformed/jetified-firebase-components-18.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/f9ccd4f92aa1801453a5dbc4a779f14c/transformed/jetified-firebase-components-18.0.0.aar (No such file or directory)
+   > Failed to transform firebase-components-18.0.0.aar (com.google.firebase:firebase-components:18.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/f9ccd4f92aa1801453a5dbc4a779f14c/transformed/jetified-firebase-components-18.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/f9ccd4f92aa1801453a5dbc4a779f14c/transformed/jetified-firebase-components-18.0.0.aar (No such file or directory)
+   > Failed to transform firebase-components-18.0.0.aar (com.google.firebase:firebase-components:18.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/f9ccd4f92aa1801453a5dbc4a779f14c/transformed/jetified-firebase-components-18.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/f9ccd4f92aa1801453a5dbc4a779f14c/transformed/jetified-firebase-components-18.0.0.aar (No such file or directory)
+   > Failed to transform firebase-components-18.0.0.aar (com.google.firebase:firebase-components:18.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/f9ccd4f92aa1801453a5dbc4a779f14c/transformed/jetified-firebase-components-18.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/f9ccd4f92aa1801453a5dbc4a779f14c/transformed/jetified-firebase-components-18.0.0.aar (No such file or directory)
+   > Failed to transform firebase-datatransport-18.2.0.aar (com.google.firebase:firebase-datatransport:18.2.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/b034e801a36983b134a700c0dd3ac2fd/transformed/jetified-firebase-datatransport-18.2.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/b034e801a36983b134a700c0dd3ac2fd/transformed/jetified-firebase-datatransport-18.2.0.aar (No such file or directory)
+   > Failed to transform transport-backend-cct-3.1.9.aar (com.google.android.datatransport:transport-backend-cct:3.1.9) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/7e01b24ac86a3172e17fe033d44b4faa/transformed/jetified-transport-backend-cct-3.1.9.aar.
+         > /home/nar/.gradle/caches/transforms-3/7e01b24ac86a3172e17fe033d44b4faa/transformed/jetified-transport-backend-cct-3.1.9.aar (No such file or directory)
+   > Failed to transform transport-backend-cct-3.1.9.aar (com.google.android.datatransport:transport-backend-cct:3.1.9) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/7e01b24ac86a3172e17fe033d44b4faa/transformed/jetified-transport-backend-cct-3.1.9.aar.
+         > /home/nar/.gradle/caches/transforms-3/7e01b24ac86a3172e17fe033d44b4faa/transformed/jetified-transport-backend-cct-3.1.9.aar (No such file or directory)
+   > Failed to transform firebase-encoders-json-18.0.0.aar (com.google.firebase:firebase-encoders-json:18.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/76441ea8de4d886f15f5ce58f20f45fb/transformed/jetified-firebase-encoders-json-18.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/76441ea8de4d886f15f5ce58f20f45fb/transformed/jetified-firebase-encoders-json-18.0.0.aar (No such file or directory)
+   > Failed to transform firebase-encoders-json-18.0.0.aar (com.google.firebase:firebase-encoders-json:18.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/76441ea8de4d886f15f5ce58f20f45fb/transformed/jetified-firebase-encoders-json-18.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/76441ea8de4d886f15f5ce58f20f45fb/transformed/jetified-firebase-encoders-json-18.0.0.aar (No such file or directory)
+   > Failed to transform transport-runtime-3.1.9.aar (com.google.android.datatransport:transport-runtime:3.1.9) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/8628f43cda7ebd754ef395bbe68fc285/transformed/jetified-transport-runtime-3.1.9.aar.
+         > /home/nar/.gradle/caches/transforms-3/8628f43cda7ebd754ef395bbe68fc285/transformed/jetified-transport-runtime-3.1.9.aar (No such file or directory)
+   > Failed to transform transport-runtime-3.1.9.aar (com.google.android.datatransport:transport-runtime:3.1.9) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/8628f43cda7ebd754ef395bbe68fc285/transformed/jetified-transport-runtime-3.1.9.aar.
+         > /home/nar/.gradle/caches/transforms-3/8628f43cda7ebd754ef395bbe68fc285/transformed/jetified-transport-runtime-3.1.9.aar (No such file or directory)
+   > Failed to transform transport-runtime-3.1.9.aar (com.google.android.datatransport:transport-runtime:3.1.9) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/8628f43cda7ebd754ef395bbe68fc285/transformed/jetified-transport-runtime-3.1.9.aar.
+         > /home/nar/.gradle/caches/transforms-3/8628f43cda7ebd754ef395bbe68fc285/transformed/jetified-transport-runtime-3.1.9.aar (No such file or directory)
+   > Failed to transform transport-api-3.1.0.aar (com.google.android.datatransport:transport-api:3.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/58cdbc7a0b28e55e5df6df4ca698e947/transformed/jetified-transport-api-3.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/58cdbc7a0b28e55e5df6df4ca698e947/transformed/jetified-transport-api-3.1.0.aar (No such file or directory)
+   > Failed to transform transport-api-3.1.0.aar (com.google.android.datatransport:transport-api:3.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/58cdbc7a0b28e55e5df6df4ca698e947/transformed/jetified-transport-api-3.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/58cdbc7a0b28e55e5df6df4ca698e947/transformed/jetified-transport-api-3.1.0.aar (No such file or directory)
+   > Failed to transform transport-api-3.1.0.aar (com.google.android.datatransport:transport-api:3.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/58cdbc7a0b28e55e5df6df4ca698e947/transformed/jetified-transport-api-3.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/58cdbc7a0b28e55e5df6df4ca698e947/transformed/jetified-transport-api-3.1.0.aar (No such file or directory)
+   > Failed to transform transport-api-3.1.0.aar (com.google.android.datatransport:transport-api:3.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/58cdbc7a0b28e55e5df6df4ca698e947/transformed/jetified-transport-api-3.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/58cdbc7a0b28e55e5df6df4ca698e947/transformed/jetified-transport-api-3.1.0.aar (No such file or directory)
+   > Failed to transform googleid-1.1.0.aar (com.google.android.libraries.identity.googleid:googleid:1.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/5e5ce4bf563ff1b69f67cc71feba69c1/transformed/jetified-googleid-1.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/5e5ce4bf563ff1b69f67cc71feba69c1/transformed/jetified-googleid-1.1.0.aar (No such file or directory)
+   > Failed to transform openssl-1.1.1l-beta-1.aar (com.android.ndk.thirdparty:openssl:1.1.1l-beta-1) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/8c84e4ec4cdada572c26c4a01eb44662/transformed/jetified-openssl-1.1.1l-beta-1.aar.
+         > /home/nar/.gradle/caches/transforms-3/8c84e4ec4cdada572c26c4a01eb44662/transformed/jetified-openssl-1.1.1l-beta-1.aar (No such file or directory)
+   > Failed to transform fbjni-0.3.0.aar (com.facebook.fbjni:fbjni:0.3.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/dbd41c712ccf14d7eb3cb01678ac8cf1/transformed/jetified-fbjni-0.3.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/dbd41c712ccf14d7eb3cb01678ac8cf1/transformed/jetified-fbjni-0.3.0.aar (No such file or directory)
+   > Failed to transform animated-base-2.5.0.aar (com.facebook.fresco:animated-base:2.5.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/8ff47aa3f64cfb1ae8bb616229709610/transformed/jetified-animated-base-2.5.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/8ff47aa3f64cfb1ae8bb616229709610/transformed/jetified-animated-base-2.5.0.aar (No such file or directory)
+   > Failed to transform animated-drawable-2.5.0.aar (com.facebook.fresco:animated-drawable:2.5.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/99714e42b5a6f775d0aaaab422369139/transformed/jetified-animated-drawable-2.5.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/99714e42b5a6f775d0aaaab422369139/transformed/jetified-animated-drawable-2.5.0.aar (No such file or directory)
+   > Failed to transform drawee-2.6.0.aar (com.facebook.fresco:drawee:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/3e491110ec8e34fbb7aed0ec653e40fc/transformed/jetified-drawee-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/3e491110ec8e34fbb7aed0ec653e40fc/transformed/jetified-drawee-2.6.0.aar (No such file or directory)
+   > Failed to transform nativeimagefilters-2.6.0.aar (com.facebook.fresco:nativeimagefilters:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/8bc712a5948344d3dfb9d1ba9a017df2/transformed/jetified-nativeimagefilters-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/8bc712a5948344d3dfb9d1ba9a017df2/transformed/jetified-nativeimagefilters-2.6.0.aar (No such file or directory)
+   > Failed to transform memory-type-native-2.6.0.aar (com.facebook.fresco:memory-type-native:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/1de18e0519fd5d3f910e49d745501c46/transformed/jetified-memory-type-native-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/1de18e0519fd5d3f910e49d745501c46/transformed/jetified-memory-type-native-2.6.0.aar (No such file or directory)
+   > Failed to transform memory-type-java-2.6.0.aar (com.facebook.fresco:memory-type-java:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/b683af013bc791e999418b83ba1fd5a3/transformed/jetified-memory-type-java-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/b683af013bc791e999418b83ba1fd5a3/transformed/jetified-memory-type-java-2.6.0.aar (No such file or directory)
+   > Failed to transform imagepipeline-native-2.6.0.aar (com.facebook.fresco:imagepipeline-native:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/083004f79ee32eb1d52e8353a100929e/transformed/jetified-imagepipeline-native-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/083004f79ee32eb1d52e8353a100929e/transformed/jetified-imagepipeline-native-2.6.0.aar (No such file or directory)
+   > Failed to transform soloader-2.6.0.aar (com.facebook.fresco:soloader:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/c1584cbdfb4f74ae67acdad51dcb473b/transformed/jetified-soloader-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/c1584cbdfb4f74ae67acdad51dcb473b/transformed/jetified-soloader-2.6.0.aar (No such file or directory)
+   > Failed to transform soloader-0.10.5.aar (com.facebook.soloader:soloader:0.10.5) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/2fcee6c114ab7bcf2c1117ac6abc93f8/transformed/jetified-soloader-0.10.5.aar.
+         > /home/nar/.gradle/caches/transforms-3/2fcee6c114ab7bcf2c1117ac6abc93f8/transformed/jetified-soloader-0.10.5.aar (No such file or directory)
+   > Failed to transform memory-type-ashmem-2.6.0.aar (com.facebook.fresco:memory-type-ashmem:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/12d3b727a8d7d3216d87a854b0c4d22c/transformed/jetified-memory-type-ashmem-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/12d3b727a8d7d3216d87a854b0c4d22c/transformed/jetified-memory-type-ashmem-2.6.0.aar (No such file or directory)
+   > Failed to transform imagepipeline-2.6.0.aar (com.facebook.fresco:imagepipeline:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/e0c4d336b47a0734f918d555aa79c444/transformed/jetified-imagepipeline-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/e0c4d336b47a0734f918d555aa79c444/transformed/jetified-imagepipeline-2.6.0.aar (No such file or directory)
+   > Failed to transform nativeimagetranscoder-2.6.0.aar (com.facebook.fresco:nativeimagetranscoder:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/563bf4078d1a6bc7553d7745b215db3b/transformed/jetified-nativeimagetranscoder-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/563bf4078d1a6bc7553d7745b215db3b/transformed/jetified-nativeimagetranscoder-2.6.0.aar (No such file or directory)
+   > Failed to transform imagepipeline-base-2.6.0.aar (com.facebook.fresco:imagepipeline-base:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/3bf52dfcf3d21cf06d0ddfd6d915ac0f/transformed/jetified-imagepipeline-base-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/3bf52dfcf3d21cf06d0ddfd6d915ac0f/transformed/jetified-imagepipeline-base-2.6.0.aar (No such file or directory)
+   > Failed to transform grpc-android-1.62.2.aar (io.grpc:grpc-android:1.62.2) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/2f09542177f781582d9db19c3539253f/transformed/jetified-grpc-android-1.62.2.aar.
+         > /home/nar/.gradle/caches/transforms-3/2f09542177f781582d9db19c3539253f/transformed/jetified-grpc-android-1.62.2.aar (No such file or directory)
+   > Failed to transform middleware-2.6.0.aar (com.facebook.fresco:middleware:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/0bb02b0bfa8711dd9ee5521e4483df65/transformed/jetified-middleware-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/0bb02b0bfa8711dd9ee5521e4483df65/transformed/jetified-middleware-2.6.0.aar (No such file or directory)
+   > Failed to transform ui-common-2.6.0.aar (com.facebook.fresco:ui-common:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/2cca305ed6df70b009c73796b86b8026/transformed/jetified-ui-common-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/2cca305ed6df70b009c73796b86b8026/transformed/jetified-ui-common-2.6.0.aar (No such file or directory)
+   > Failed to transform fbcore-2.6.0.aar (com.facebook.fresco:fbcore:2.6.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/f8c14d92a61138041f9a944502fde6e0/transformed/jetified-fbcore-2.6.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/f8c14d92a61138041f9a944502fde6e0/transformed/jetified-fbcore-2.6.0.aar (No such file or directory)
+   > Failed to transform installreferrer-1.0.aar (com.android.installreferrer:installreferrer:1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.libraryelements=jar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/69115a98ca0ba25bb1c0b4590974a721/transformed/jetified-installreferrer-1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/69115a98ca0ba25bb1c0b4590974a721/transformed/jetified-installreferrer-1.0.aar (No such file or directory)
+   > Failed to transform ShortcutBadger-1.1.22.aar (me.leolin:ShortcutBadger:1.1.22) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/9e424f8854f526271df9e2b83b3aadcd/transformed/jetified-ShortcutBadger-1.1.22.aar.
+         > /home/nar/.gradle/caches/transforms-3/9e424f8854f526271df9e2b83b3aadcd/transformed/jetified-ShortcutBadger-1.1.22.aar (No such file or directory)
+   > Failed to transform annotation-experimental-1.1.0.aar (androidx.annotation:annotation-experimental:1.1.0) to match attributes {artifactType=android-aar-metadata, org.gradle.category=library, org.gradle.dependency.bundling=external, org.gradle.libraryelements=aar, org.gradle.status=release, org.gradle.usage=java-runtime}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/94b7de5f3d02b4f410ea5d2aecd785aa/transformed/jetified-annotation-experimental-1.1.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/94b7de5f3d02b4f410ea5d2aecd785aa/transformed/jetified-annotation-experimental-1.1.0.aar (No such file or directory)
+   > Failed to transform protolite-well-known-types-18.0.0.aar (com.google.firebase:protolite-well-known-types:18.0.0) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/4ec44824f6135c7d459a07f74786dda4/transformed/jetified-protolite-well-known-types-18.0.0.aar.
+         > /home/nar/.gradle/caches/transforms-3/4ec44824f6135c7d459a07f74786dda4/transformed/jetified-protolite-well-known-types-18.0.0.aar (No such file or directory)
+   > Failed to transform core-common-2.0.3.aar (com.google.android.play:core-common:2.0.3) to match attributes {artifactType=android-aar-metadata, org.gradle.status=release}.
+      > Execution failed for ExtractAarTransform: /home/nar/.gradle/caches/transforms-3/7c43e1b5e02314264cbb7bd314bd398f/transformed/jetified-core-common-2.0.3.aar.
+         > /home/nar/.gradle/caches/transforms-3/7c43e1b5e02314264cbb7bd314bd398f/transformed/jetified-core-common-2.0.3.aar (No such file or directory)
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to get full insights.
+
+* Get more help at https://help.gradle.org
+
+BUILD FAILED in 8s
+45 actionable tasks: 31 executed, 4 from cache, 10 up-to-date
+Error: /home/nar/JSTM/MeditationTree/android/gradlew exited with non-zero code: 1
+Error: /home/nar/JSTM/MeditationTree/android/gradlew exited with non-zero code: 1
+    at ChildProcess.completionListener (/home/nar/JSTM/MeditationTree/node_modules/@expo/spawn-async/build/spawnAsync.js:52:23)
+    at Object.onceWrapper (node:events:633:26)
+    at ChildProcess.emit (node:events:518:28)
+    at maybeClose (node:internal/child_process:1105:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:305:5)
+    ...
+    at Object.spawnAsync [as default] (/home/nar/JSTM/MeditationTree/node_modules/@expo/spawn-async/build/spawnAsync.js:17:21)
+    at spawnGradleAsync (/home/nar/JSTM/MeditationTree/node_modules/@expo/cli/build/src/start/platforms/android/gradle.js:72:46)
+    at Object.assembleAsync (/home/nar/JSTM/MeditationTree/node_modules/@expo/cli/build/src/start/platforms/android/gradle.js:52:18)
+    at runAndroidAsync (/home/nar/JSTM/MeditationTree/node_modules/@expo/cli/build/src/run/android/runAndroidAsync.js:36:24)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+nar-Legion-Slim-5-16APH8% 

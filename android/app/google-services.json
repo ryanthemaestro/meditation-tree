@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23547672281",
+    "project_id": "treemeditation",
+    "storage_bucket": "treemeditation.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23547672281:android:59047628fb37f0b404f0c8",
+        "android_client_info": {
+          "package_name": "com.meditationtree.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYU0sZ0axXk_pFA1SX_xIYLR_EoD6N89A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
